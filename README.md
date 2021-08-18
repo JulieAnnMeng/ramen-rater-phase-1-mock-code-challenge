@@ -4,9 +4,6 @@ Lovingly stolen and modified from [*Ian Hollander*](https://github.com/ihollande
 
 ##
 
-parking lot
-- Kolt - img issue
-- Nick - also ^
 
 Today you'll be building an app for rating ramen. You will be using a local API and building out the frontend for our app.
 
